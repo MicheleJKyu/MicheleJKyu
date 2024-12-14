@@ -5,7 +5,7 @@
 Etant en formation, notre formateur technique nous montre toutes les bases pour créer un site :
 HMTL, CSS. Puis ensuite du JavaScript, et enfin du PHP.
 
-- Je suis entrain de monter mon vrai premier projet : Créer mon propre site,
+- Je suis en train de monter mon vrai premier projet : Créer mon propre site,
 par la suite, j'enchaîne sur un site de restaurant fictif : Le baratie.
 J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part quand je commencerais l'un d'entre eux.
   
