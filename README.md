@@ -7,6 +7,7 @@ HMTL, CSS. Puis ensuite du JavaScript, et enfin du PHP.
 
 - Je suis entrain de monter mon vrai premier projet : Créer mon propre site,
 par la suite, j'enchaîne sur un site de restaurant fictif : Le baratie.
+J'ai aussi pliens d'autres idées de projets ensuite, j'en ferais part quand je commencerais l'un d'entre eux.
   
 - 💞️ Je recherche une entreprise pour poursuivre ma formatioon, et faire une formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
 - 📫 Vous pouvez me joindre via LinkedIn.
