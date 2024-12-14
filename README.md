@@ -9,7 +9,8 @@ HMTL, CSS. Puis ensuite du JavaScript, et enfin du PHP.
 par la suite, j'enchaîne sur un site de restaurant fictif : Le baratie.
 J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part quand je commencerais l'un d'entre eux.
   
-- 💞️ Je recherche une entreprise pour poursuivre ma formatioon, et faire une formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
+- 💞️ Je recherche une entreprise pour poursuivre ma formation : Développeur web et mobile, formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
+Je cherche à entrer à l'ENI.
 - 📫 Vous pouvez me joindre via LinkedIn.
   
 - 😄 Mon petit nom est Kyumi, c'est pour cela que j'ai mon prénom, et Kyu attaché comme Cela : MichèleKyu. 
