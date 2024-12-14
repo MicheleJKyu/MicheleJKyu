@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis Michele.
+- 👋 Bonjour, moi c'est Michele.
   
 - 👀 Je suis en formation PP découverte numérique et cherche une alternance pour l'ENI.
 - 🌱 J'apprends le CSS et le Javascript, et je suis en train de voir pour apprendre un FrameWork.
