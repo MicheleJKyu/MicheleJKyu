@@ -3,7 +3,7 @@
 - 👀 Je suis en formation PP découverte numérique et cherche une alternance pour l'ENI.
 - 🌱 J'apprends le CSS et le Javascript, et je suis en train de voir pour apprendre un FrameWork.
 Etant en formation, notre formateur technique nous montre toutes les bases pour créer un site :
-HMTL, CSS. Puis ensuite du JavaScript, et enfin du PHP.
+HMTL, CSS. Puis ensuite du JavaScript, du PHP, du JAVA, et du C#.
 
 - Je suis en train de monter mon vrai premier projet : Créer mon propre site,
 par la suite, j'enchaîne sur un site de restaurant fictif : Le baratie.
@@ -11,7 +11,7 @@ J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part qua
   
 - 💞️ Je recherche une entreprise pour poursuivre ma formation : Développeur web et mobile, formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
 Je cherche à entrer à l'ENI.
-- 📫 Vous pouvez me joindre via LinkedIn.
+- 📫 Vous pouvez me joindre via LinkedIn : www.linkedin.com/in/michèle-jacques
   
 - 😄 Mon petit nom est Kyumi, c'est pour cela que j'ai mon prénom, et Kyu attaché comme Cela : MichèleKyu. 
 Cela fait référence à mon pseudo : Kyu, qui veut dire 9, en japonais. et mi, pas spécialement de traduction particulière.
