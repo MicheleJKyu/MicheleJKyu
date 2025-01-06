@@ -12,7 +12,7 @@ J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part qua
 - 💞️ Je recherche une entreprise pour poursuivre ma formation : Développeur web et mobile, formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
 Je cherche à entrer à l'ENI.
 - 📫 Vous pouvez me joindre via LinkedIn : www.linkedin.com/in/michèle-jacques
-  Vous aurrez mon CV dessus, je e met à jour régulièrement.
+  Vous aurrez mon CV dessus, je le met à jour régulièrement.
   
 - 😄 Mon petit nom est Kyumi, c'est pour cela que j'ai mon prénom, et Kyu attaché comme Cela : MichèleKyu. 
 Cela fait référence à mon pseudo : Kyu, qui veut dire 9, en japonais. et mi, pas spécialement de traduction particulière.
