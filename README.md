@@ -1,9 +1,10 @@
 - 👋 Bonjour, moi c'est Michele.
   
 - 👀 Je suis en formation PP découverte numérique et cherche une alternance pour l'ENI, ou O'Clock.
-- 🌱 J'apprends le PHP, et je suis en train de voir pour apprendre React.
+- 🌱 Dès que possible, à une date très proche, Je suis sur le point d'apprendre le PHP, et je suis en train de voir pour apprendre React.
 Etant en formation, notre formateur technique nous montre toutes les bases pour créer un site :
-HMTL, CSS. Puis ensuite du JavaScript.
+HMTL, CSS. Puis ensuite un peu de JavaScript.
+Comme nous avons à voir d'autres métiers du numérique, nous n'avions pas pû en voir plus : Donc, je continue en autodidacte.
 - J'aimerais ensuite apprendre d'autres Languages web, et Framework par la suite.
 
 - Je suis en train de monter mon vrai premier projet : Créer mon propre site,
