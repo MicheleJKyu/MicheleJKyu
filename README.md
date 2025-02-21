@@ -1,7 +1,7 @@
 - 👋 Bonjour, moi c'est Michele.
   
 - 👀 J'ai fait une formation PP découverte numérique durant 4 mois.
-- Je recherche une alternance pour l'ENI, ou O'Clock.
+- Je recherche une alternance pour entrer chez Arinfo.
 - 🌱 Dès que possible, à une date très proche, Je suis sur le point d'apprendre le PHP, et je suis en train de voir pour apprendre React.
 - J'ai déjà quelques notions en HTML, CSS et un peu en JS.
 Comme nous avons à voir d'autres métiers du numérique, nous n'avions pas pû en voir plus : Donc, je continue en autodidacte.
