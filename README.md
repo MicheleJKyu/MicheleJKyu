@@ -12,10 +12,11 @@ par la suite, j'enchaîne sur un site de restaurant fictif : Le baratie.
 J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part quand je commencerais l'un d'entre eux.
   
 - 💞️ Je recherche une entreprise pour poursuivre ma formation : Développeur web et mobile, formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
-Je cherche à entrer à l'ENI, ou O'Clock.
-- 📫 Vous pouvez me joindre via LinkedIn : www.linkedin.com/in/michèle-jacques
+Je suis en formation alternance chez ARINFO à Niort.
+- 📫 Vous pouvez me joindre via :
+- Email : michele_jacques@sfr.fr
+- LinkedIn : www.linkedin.com/in/michèle-jacques
   Vous aurrez mon CV dessus, je le met à jour régulièrement.
-  Vous pouvez aussi me joindre par e-mail : michele_jacques@sfr.fr
   
 - 😄 Mon petit nom est Kyumi, c'est pour cela que j'ai mon prénom, et Kyu attaché comme Cela : MichèleKyu. 
 Cela fait référence à mon pseudo : Kyu, qui veut dire 9, en japonais. et mi, pas spécialement de traduction particulière.
