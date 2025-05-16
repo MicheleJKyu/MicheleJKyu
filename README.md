@@ -3,7 +3,8 @@
 - 👀 J'ai fait une formation PP découverte numérique durant 4 mois.
 - Je recherche une entreprise pour continuer chez Arinfo en tant qu'apprentie sur 1 an.
 - 🌱 Dès que possible, à une date très proche, Je suis sur le point d'apprendre le PHP, et je suis en train de voir pour apprendre React.
-- J'ai déjà quelques notions en HTML, CSS et un peu en JS.
+- J'ai déjà quelques notions en HTML, CSS (+SASS), les bases en JS, et Bootstrap.
+
 Comme nous avons à voir d'autres métiers du numérique, nous n'avions pas pû en voir plus : Donc, je continue en autodidacte.
 - J'aimerais ensuite apprendre d'autres Languages web, et Framework par la suite.
 
@@ -14,6 +15,8 @@ J'ai aussi pleins d'autres idées de projets pour la suite, j'en ferais part qua
 - 💞️ Je recherche une entreprise pour poursuivre ma formation : Développeur web et mobile, formation certifiante Niveau BAC+2, et éventuellement enchainer sur un BAC+3.
 Je suis en formation alternance chez ARINFO à Niort.
 - 📫 Vous pouvez me joindre via :
+- 06 95 20 96 76.
+ 
 - Email : michele_jacques@sfr.fr
 - LinkedIn : www.linkedin.com/in/michèle-jacques
   Vous aurrez mon CV dessus, je le met à jour régulièrement.
