@@ -3,9 +3,8 @@
 - 👀 J'ai fait une formation PP découverte numérique durant 4 mois, à l'AFPA.
 - Je recherche une entreprise sur un contrat d'un an, dans le cadre de ma formation.
 - 🌱 Dès que possible, à une date très proche, Je suis sur le point d'apprendre le PHP, et je suis en train de voir pour apprendre React.
-- J'ai déjà quelques notions en HTML, CSS (+SASS), les bases en JS, et Bootstrap.
 
-Comme nous avons à voir d'autres métiers du numérique, nous n'avions pas pû en voir plus : Donc, je continue en autodidacte.
+- J'ai déjà quelques notions en HTML, CSS (+SASS), les bases en JS, et Bootstrap.
 - J'aimerais ensuite apprendre d'autres Languages web, et Framework par la suite.
 
 - Je suis en train de monter mon vrai premier projet : Créer mon propre site,
